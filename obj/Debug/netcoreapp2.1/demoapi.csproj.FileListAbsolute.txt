@@ -1,0 +1,14 @@
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/bin/Debug/netcoreapp2.1/demoapi.deps.json
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/bin/Debug/netcoreapp2.1/demoapi.runtimeconfig.json
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/bin/Debug/netcoreapp2.1/demoapi.runtimeconfig.dev.json
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/bin/Debug/netcoreapp2.1/demoapi.dll
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/bin/Debug/netcoreapp2.1/demoapi.pdb
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.csproj.CoreCompileInputs.cache
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.RazorAssemblyInfo.cache
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.RazorAssemblyInfo.cs
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.AssemblyInfoInputs.cache
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.AssemblyInfo.cs
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.RazorTargetAssemblyInfo.cache
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.dll
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.pdb
+/Users/prageethsudusinghe/Downloads/cicddemo/demoapi/obj/Debug/netcoreapp2.1/demoapi.csprojResolveAssemblyReference.cache
